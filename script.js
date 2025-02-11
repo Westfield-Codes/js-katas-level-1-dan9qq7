@@ -12,7 +12,8 @@ alert("My favorite color is " + color);
 /* Var Alert Prompt */
 // make a string variable for color, prompt the user for their favorite
 // alert color " is a nice color!"
-
+var potatochips = prompt("favorite color is what?")
+alert("your favorite color is " + potatochips + "!")
 /* Var Alert Prompt Conditional */
 // make a variable for color, prompt the user for their favorite
 // if user enters "black" alert "Black is not really a color." 
