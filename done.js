@@ -3,8 +3,8 @@
 /* COLOR KATAS */
 
 /* No Prompt */
-
-
+var color = "black";
+alert("My favorite color is " + color);
 /* Prompt */
 
 /* Prompt with Conditional */
