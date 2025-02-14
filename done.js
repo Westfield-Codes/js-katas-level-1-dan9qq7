@@ -11,7 +11,7 @@ alert("My favorite color is " + color);
 
 
 /* AGE */
-
+var age = prompt("what is your age?")
 /* No Prompt */
 
 
@@ -19,7 +19,8 @@ alert("My favorite color is " + color);
 
 
 /* Prompt with Conditional */
-
+var name1 = prompt("whats your name?") ;
+alert(name1 + " is " + age + " years old");
 
 /* ICE CREAM */
 
